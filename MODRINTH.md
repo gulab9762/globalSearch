@@ -10,7 +10,7 @@
 [![Lightweight](https://img.shields.io/badge/Size-%3C%20400_KB-informational?style=for-the-badge)](https://modrinth.com/mod/global-search)
 
 **Stop digging through endless pause screens, nested config folders, and controls pages.**  
-Press **`[G]`** anywhere to bring up a blazing-fast, macOS Spotlight / VS Code / IntelliJ-style search overlay that indexes **everything** in your game.
+Press **`[K]`** anywhere to bring up a blazing-fast, macOS Spotlight / VS Code / IntelliJ-style search overlay that indexes **everything** in your game.
 
 ---
 
